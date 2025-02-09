@@ -1,8 +1,1 @@
 primer texto 11:08 a. m. 09/02/2025
-segundo texto 11:23 a. m. 09/02/2025
-tercer texto 11:28 a. m. 09/02/2025
-cuarto 11:37 a. m. 09/02/2025
-quinto agregardo en servidor 
-Sexto original, debe estar primero antes del remoto 11:40 a. m. 09/02/2025
-sexto agregado para generar conflicto y debe estar psegundo en el codigo
-11111111111111111111
